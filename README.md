@@ -9,6 +9,7 @@ Generally used for identifying any upsale, cross-sale or recomendation purpose
 From the experiment we get to know that:
 the rules created from transaction, we get these recommendations based on support , lift and confidence.
 
+
 ## 2. Linear Regression - sq.ft price
 ### using Linear regression algorithm 
 
