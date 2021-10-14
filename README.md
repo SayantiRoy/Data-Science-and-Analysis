@@ -10,7 +10,7 @@ From the experiment we get to know that:
 the rules created from transaction, we get these recommendations based on support , lift and confidence.
 
 
-## 2. Linear Regression - sq.ft price
+## 2. Linear Regression - sq.ft price Prediction
 ### using Linear regression algorithm 
 
 In this task prediction is done on the Sell Price based on Square feet of an area using Linear-Regression method.
